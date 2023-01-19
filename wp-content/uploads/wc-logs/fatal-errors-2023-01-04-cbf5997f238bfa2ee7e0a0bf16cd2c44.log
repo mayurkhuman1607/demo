@@ -1,0 +1,238 @@
+2023-01-04T09:53:09+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T09:53:47+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T09:55:00+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T09:56:35+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T09:56:39+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T09:57:00+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T09:57:10+00:00 CRITICAL syntax error, unexpected '$data' (T_VARIABLE) in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 200
+
+2023-01-04T09:57:16+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T10:52:20+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T10:52:24+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T10:53:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) in /var/www/html/WPDEV/wp-content/plugins/essential-addons-for-elementor-lite/includes/Elements/Filterable_Gallery.php on line 917
+
+2023-01-04T10:53:29+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T10:53:34+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T10:54:06+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T10:59:33+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T11:03:33+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /var/www/html/WPDEV/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /var/www/html/WPDEV/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): do_shortcode()
+#3 /var/www/html/WPDEV/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#4 /var/www/html/WPDEV/wp-includes/post-template.php(255): apply_filters()
+#5 /var/www/html/WPDEV/wp-content/themes/astra/template-parts/content-page.php(54): the_content()
+#6 /var/www/html/WPDEV/wp-includes/template.php(785): require('/var/www/html/W...')
+#7 /var/www/html/WPDEV/wp-includes/template.php(718): load_template()
+#8 /var/www/html/WPDEV/wp-includes/general-template.php(204): locate_template()
+#9 /var/www/html/WPDEV/wp-content/themes/astra/inc/class-astra-loop.php(109): get_template_part()
+#10 /var/www/html/WPDEV/wp-includes/class-wp-hook.php(308): Astra_Loop->template_parts_page()
+#11 /var/w in /var/www/html/WPDEV/wp-includes/shortcodes.php on line 355
+
+2023-01-04T12:22:50+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 203
+
+2023-01-04T12:23:28+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 203
+
+2023-01-04T12:23:44+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 202
+
+2023-01-04T12:23:47+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 202
+
+2023-01-04T12:24:42+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 202
+
+2023-01-04T12:24:44+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 202
+
+2023-01-04T12:26:35+00:00 CRITICAL syntax error, unexpected '>' in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 203
+
+2023-01-04T12:26:48+00:00 CRITICAL syntax error, unexpected '>' in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 203
+
+2023-01-04T12:27:09+00:00 CRITICAL syntax error, unexpected '>' in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 203
+
+2023-01-04T12:27:11+00:00 CRITICAL syntax error, unexpected '>' in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 203
+
+2023-01-04T12:29:38+00:00 CRITICAL syntax error, unexpected '>' in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 201
+
+2023-01-04T12:29:38+00:00 CRITICAL syntax error, unexpected '>' in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 201
+

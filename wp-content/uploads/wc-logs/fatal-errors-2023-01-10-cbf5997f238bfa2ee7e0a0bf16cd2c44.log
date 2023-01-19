@@ -1,0 +1,58 @@
+2023-01-10T06:17:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 61440 bytes) in /var/www/html/WPDEV/wp-content/plugins/essential-addons-for-elementor-lite/autoload.php on line 27
+
+2023-01-10T06:47:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /var/www/html/WPDEV/wp-content/plugins/essential-addons-for-elementor-lite/includes/Elements/Team_Member.php on line 884
+
+2023-01-10T06:47:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /var/www/html/WPDEV/wp-content/plugins/essential-addons-for-elementor-lite/includes/Elements/Team_Member.php on line 884
+
+2023-01-10T06:47:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /var/www/html/WPDEV/wp-content/plugins/essential-addons-for-elementor-lite/includes/Elements/Team_Member.php on line 884
+
+2023-01-10T06:48:23+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 239
+
+2023-01-10T06:48:32+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 239
+
+2023-01-10T06:48:35+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 239
+
+2023-01-10T06:48:36+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 239
+
+2023-01-10T06:48:44+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 226
+
+2023-01-10T06:48:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 226
+
+2023-01-10T06:48:52+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 226
+
+2023-01-10T06:49:07+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 226
+
+2023-01-10T06:55:37+00:00 CRITICAL syntax error, unexpected '$response' (T_VARIABLE) in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 230
+
+2023-01-10T06:55:37+00:00 CRITICAL syntax error, unexpected '$response' (T_VARIABLE) in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 230
+
+2023-01-10T06:55:38+00:00 CRITICAL syntax error, unexpected '$response' (T_VARIABLE) in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 230
+
+2023-01-10T06:55:53+00:00 CRITICAL syntax error, unexpected '$response' (T_VARIABLE) in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 230
+
+2023-01-10T06:56:02+00:00 CRITICAL syntax error, unexpected '$response' (T_VARIABLE) in /var/www/html/WPDEV/wp-content/themes/astra/functions.php on line 230
+
+2023-01-10T11:13:28+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 24
+
+2023-01-10T11:13:38+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 24
+
+2023-01-10T11:13:46+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:47+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:47+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:49+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+
+2023-01-10T11:13:49+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/WPDEV/wp-content/themes/astra-child/pageport.php on line 23
+

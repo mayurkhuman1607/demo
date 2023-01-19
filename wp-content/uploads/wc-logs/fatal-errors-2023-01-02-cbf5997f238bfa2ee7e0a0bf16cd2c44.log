@@ -1,0 +1,12 @@
+2023-01-02T11:24:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/WPDEV/wp-includes/class-wp-image-editor.php on line 576
+
+2023-01-02T11:25:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/WPDEV/wp-includes/class-wp-image-editor.php on line 576
+
+2023-01-02T11:25:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/WPDEV/wp-includes/class-wp-image-editor-gd.php on line 206
+
+2023-01-02T11:26:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/WPDEV/wp-includes/class-wp-image-editor.php on line 576
+
+2023-01-02T11:26:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/WPDEV/wp-includes/class-wp-image-editor-gd.php on line 206
+
+2023-01-02T11:33:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/WPDEV/wp-includes/class-wpdb.php on line 3169
+
